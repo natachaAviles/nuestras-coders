@@ -1,0 +1,56 @@
+/* Inserta tu código aqui */
+h4 {
+	
+	margin-left:15px; 
+	text-decoration:underline;
+}
+
+.contenedor {
+	width:730px;
+	height:570px;
+	position:relative;
+	margin:auto;
+
+}
+
+.foto {
+	width:200px;
+	height:200px;
+	border:1px solid #A09C9C;
+	display:inline-block;
+	margin-top:15px;
+	margin-left:25px;
+	margin-bottom:15px;
+	background-color:#6F6C6C; 
+	color:white;
+	position:relative;
+}
+
+.parrafo {
+	position:absolute;
+	bottom:0px;
+	right:5px;
+}
+
+.uno {
+	background-image:url(../img/profile-1.png);
+}
+
+.dos {
+	background-image:url(../img/profile-2.png);
+}
+
+.tres {
+	background-image:url(../img/profile-3.png); 
+}
+
+.cuatro {
+	background-image:url(../img/profile-4.png); 
+}
+
+.cinco {
+	background-image:url(../img/profile-5.png); 
+}
+.seis {
+	background-image:url(../img/profile-6.png);
+}
