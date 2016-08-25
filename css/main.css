@@ -1,8 +1,14 @@
 /* Inserta tu código aqui */
+hr {
+	margin-left:15px;
+	border-style:solid;
+	border-width:2px;
+	width:90px;
+}
 h4 {
 	
 	margin-left:15px; 
-	text-decoration:underline;
+	
 }
 
 .contenedor {
